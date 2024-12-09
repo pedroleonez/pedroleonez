@@ -1,16 +1,16 @@
-<h2 align="left">💫About me</h2>
+<h2 align="center">💫About me</h2>
 
 ###
 
-<p align="left">- Software developer<br>- Java and Spring enthusiast<br>- horror movie fan</p>
+<p align="center">- Software developer<br>- Java and Spring enthusiast<br>- horror movie fan</p>
 
 ###
 
-<h2 align="left">🛠️Techs</h2>
+<h2 align="center">🛠️Techs</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">📈Stats</h2>
+<h2 align="center">📈Stats</h2>
 
 ###
 
@@ -39,18 +39,14 @@
 
 ###
 
-<h2 align="left">📲Social media</h2>
+<h2 align="center">📲Social media</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/pedroleonez/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/pedroleonez/pedroleonez/output/snake.svg" alt="Snake animation" />
 
 ###
