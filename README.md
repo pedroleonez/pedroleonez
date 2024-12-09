@@ -1,12 +1,12 @@
-<h2 align="center">💫About me</h2>
+<h1 align="center">💫About me</h1>
 
 ###
 
-<p align="center">- Software developer<br>- Java and Spring enthusiast<br>- horror movie fan</p>
+<h4 align="center">- Software developer<br>- Java and Spring enthusiast<br>- horror movie fan</h4>
 
 ###
 
-<h2 align="center">🛠️Techs</h2>
+<h1 align="center">🛠️Techs</h1>
 
 ###
 
@@ -28,19 +28,19 @@
 
 ###
 
-<h2 align="center">📈Stats</h2>
+<h1 align="center">📈Stats</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroleonez&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroleonez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroleonez&radius=16&theme=react&area=false&order=5&hide_border=true&hide_title=false" height="180" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroleonez&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroleonez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroleonez&radius=16&theme=react&area=false&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<h2 align="center">📲Social media</h2>
+<h1 align="center">📲Social media</h1>
 
 ###
 
