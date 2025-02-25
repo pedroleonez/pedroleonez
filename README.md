@@ -33,9 +33,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroleonez&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroleonez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="170" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroleonez&radius=16&theme=react&area=false&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
