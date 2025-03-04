@@ -1,7 +1,7 @@
-# Olá!
+# Olá! 👋
 [LinkedIn](https://www.linkedin.com/in/pedroleonez/)
 
-## Meu nome é Pedro Leonez
+## Me chamo Pedro Leonez ☺️
 (Java | Spring Boot | AWS | Angular | Typescript | Javascript | HTML | CSS)
 
 ### Sobre mim:
