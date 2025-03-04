@@ -7,7 +7,9 @@
 ### Sobre mim:
 - 📚 Cursando Tecnologia da Informação na UFRN.
 - 💻 Desenvolvedor de software apaixonado por tecnologia.
-- 🚀 Sempre buscando aprender e aprimorar minhas habilidades.
-- 🔥 Interesse em backend com Java e Spring Boot, além de experiência com frontend.
-- 🌎 Explorando soluções escaláveis e melhores práticas em desenvolvimento.
+- 🔥 Interesse em backend com Java e Spring Boot.
+- ❤️ Desbravando o mundo do Angular.
+- 🌎 Explorando melhores práticas de desenvolvimento.
 - 🤝 Aberto a colaborações e novos desafios.
+
+![pedroleonez's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroleonez&theme=dracula&show_icons=true&hide_border=true&layout=compact)
