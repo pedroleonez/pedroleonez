@@ -1,5 +1,7 @@
 # Olá! 👋
-[LinkedIn](https://www.linkedin.com/in/pedroleonez/)
+<a href="https://www.linkedin.com/in/pedro-leonez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
 
 ## Me chamo Pedro Leonez ☺️
 (Java | Spring Boot | AWS | Angular | Typescript | Javascript | HTML | CSS)
