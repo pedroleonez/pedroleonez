@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
-## Me chamo Pedro Leonez ☺️
+## Me chamo Pedro Leonez 😊
 (Java | Spring Boot | AWS | Angular | Typescript | Javascript | HTML | CSS)
 
 ### Sobre mim:
